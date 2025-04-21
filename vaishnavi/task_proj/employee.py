@@ -19,9 +19,9 @@ def assign_level(data):
     for emp in data:
         salary=emp.get('salary',0)
         if salary>100000:
-            emp['level']='senior'
+            emp['level']='Senior'
         else:
-            emp['level']='mid'
+            emp['level']='Junior'
     return data
 
 def save_json(data,filename):
@@ -29,7 +29,7 @@ def save_json(data,filename):
         json.dump(data,f,indent=4)
 
 db=load_json('employee.json')
-filtered_employees=filter_by_dept(db,'Engineering')
+filtered_employees=filter_by_dept(db,'HR')
 print(filtered_employees)
 
 print(average_salary(db))
