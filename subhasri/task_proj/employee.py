@@ -18,7 +18,7 @@ def filter_by_dept(data,department):
     return filtered
 
 db=load_json("employee.json")
-filtered_emp=filter_by_dept(db,"Engineering")
+filtered_emp=filter_by_dept(db,"HR")
 print(filtered_emp)
 
 
@@ -32,9 +32,9 @@ def assign_level(data):
     for emp in data:
         salary=emp.get("salary",0)
         if salary>100000:
-            emp["level"]="senior"
+            emp["level"]="Senior"
         else:
-            emp["level"]="mid"
+            emp["level"]="Junior"
     return data
 print(assign_level(db))
 
