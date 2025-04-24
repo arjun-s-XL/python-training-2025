@@ -1,0 +1,68 @@
+2025-04-22 13:20:02,040 - WARNING - WARNING: No Task found here
+2025-04-22 13:20:02,041 - INFO - INFO: Task added:Develop'
+2025-04-22 13:20:02,042 - INFO - INFO: Task added:Write unit test'
+2025-04-22 13:20:02,042 - INFO - INFO: Task added:Deploy'
+2025-04-22 13:20:02,043 - INFO - INFO: Displaying task
+2025-04-22 13:20:02,044 - INFO - INFO: Task at 0 has been removed
+2025-04-22 13:20:02,045 - INFO - INFO: Displaying task
+2025-04-22 13:20:02,046 - INFO - INFO: Task at 0 has been removed
+2025-04-22 13:20:02,049 - INFO - INFO: Displaying task
+2025-04-22 13:20:02,051 - INFO - INFO: Task at 0 has been removed
+2025-04-22 13:20:02,052 - WARNING - WARNING: No Task found here
+2025-04-22 07:50:09,155 - WARNING - WARNING: No Task found here
+2025-04-22 07:50:09,155 - INFO - INFO: Task added:Develop'
+2025-04-22 07:50:09,155 - INFO - INFO: Task added:Write unit test'
+2025-04-22 07:50:09,155 - INFO - INFO: Task added:Deploy'
+2025-04-22 07:50:09,155 - INFO - INFO: Displaying task
+2025-04-22 07:50:09,156 - INFO - INFO: Task at 0 has been removed
+2025-04-22 07:50:09,156 - INFO - INFO: Displaying task
+2025-04-22 07:50:09,156 - INFO - INFO: Task at 0 has been removed
+2025-04-22 07:50:09,156 - INFO - INFO: Displaying task
+2025-04-22 07:50:09,156 - INFO - INFO: Task at 0 has been removed
+2025-04-22 07:50:09,156 - WARNING - WARNING: No Task found here
+2025-04-22 08:58:25,857 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:58:25,863 - WARNING - WARNING: No Task found here
+2025-04-22 08:58:25,863 - DEBUG - DEBUG:Entering function add_task()
+2025-04-22 08:58:25,863 - INFO - INFO: Task added:Develop'
+2025-04-22 08:58:25,863 - DEBUG - DEBUG:Entering function add_task()
+2025-04-22 08:58:25,863 - INFO - INFO: Task added:Write unit test'
+2025-04-22 08:58:25,863 - DEBUG - DEBUG:Entering function add_task()
+2025-04-22 08:58:25,864 - INFO - INFO: Task added:Deploy'
+2025-04-22 08:58:25,864 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:58:25,864 - INFO - INFO: Displaying task
+2025-04-22 08:58:25,864 - DEBUG - DEBUG: Attempting to remove tasks at 0
+2025-04-22 08:58:25,864 - INFO - INFO: Task at 0 has been removed
+2025-04-22 08:58:25,864 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:58:25,864 - INFO - INFO: Displaying task
+2025-04-22 08:58:25,864 - DEBUG - DEBUG: Attempting to remove tasks at 0
+2025-04-22 08:58:25,864 - INFO - INFO: Task at 0 has been removed
+2025-04-22 08:58:25,864 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:58:25,864 - INFO - INFO: Displaying task
+2025-04-22 08:58:25,864 - DEBUG - DEBUG: Attempting to remove tasks at 0
+2025-04-22 08:58:25,864 - INFO - INFO: Task at 0 has been removed
+2025-04-22 08:58:25,864 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:58:25,864 - WARNING - WARNING: No Task found here
+2025-04-22 08:59:38,127 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:59:38,128 - WARNING - WARNING: No Task found here
+2025-04-22 08:59:38,128 - DEBUG - DEBUG:Entering function add_task()
+2025-04-22 08:59:38,128 - INFO - INFO: Task added:Develop'
+2025-04-22 08:59:38,128 - DEBUG - DEBUG:Entering function add_task()
+2025-04-22 08:59:38,128 - INFO - INFO: Task added:Write unit test'
+2025-04-22 08:59:38,128 - DEBUG - DEBUG:Entering function add_task()
+2025-04-22 08:59:38,128 - INFO - INFO: Task added:Deploy'
+2025-04-22 08:59:38,128 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:59:38,128 - INFO - INFO: Displaying task
+2025-04-22 08:59:38,128 - DEBUG - DEBUG: Attempting to remove tasks at 0
+2025-04-22 08:59:38,128 - INFO - INFO: Task at 0 has been removed
+2025-04-22 08:59:38,128 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:59:38,128 - INFO - INFO: Displaying task
+2025-04-22 08:59:38,129 - DEBUG - DEBUG: Attempting to remove tasks at 0
+2025-04-22 08:59:38,129 - INFO - INFO: Task at 0 has been removed
+2025-04-22 08:59:38,129 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:59:38,129 - INFO - INFO: Displaying task
+2025-04-22 08:59:38,129 - DEBUG - DEBUG: Attempting to remove tasks at 0
+2025-04-22 08:59:38,130 - INFO - INFO: Task at 0 has been removed
+2025-04-22 08:59:38,130 - DEBUG - DEBUG:Entering function dispaly_task()
+2025-04-22 08:59:38,130 - WARNING - WARNING: No Task found here
+2025-04-22 08:59:38,130 - DEBUG - DEBUG: Attempting to remove tasks at 0
+2025-04-22 08:59:38,130 - ERROR - ERROR: Failed to remove task at index :0 - pop from empty list
